@@ -1,0 +1,6 @@
+- id: linkchecker-markdown
+  name: linkcheckmd
+  entry: linkcheckMarkdown
+  language: python
+  stages: [commit]
+  types: [markdown]
